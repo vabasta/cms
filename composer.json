@@ -1,0 +1,14 @@
+{
+    "name": "vabasta/cms",
+    "description": "a cms",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bakhtawarshah",
+            "email": "cartlicms@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
